@@ -1,5 +1,7 @@
 # AI FOR GAMES CODENAMES COMPETITION BOTS
 
+Base code is from https://github.com/CodenamesAICompetition/Game on top of which changes have been done to use the newer transformer based language models as Codemasters and Guessers.
+
 Experimental bots for the Codenames AI Competition. Baseline bots use term-frequency inverse-document frequency algorithms and the Naive Bayes algorithm. Experiment bot uses Transformer neural networks.
 
 ## Runner bash scripts
